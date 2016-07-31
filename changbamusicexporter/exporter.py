@@ -1,4 +1,4 @@
-firom crawl import *
+from crawl import *
 
 """
 enter of the whole program
