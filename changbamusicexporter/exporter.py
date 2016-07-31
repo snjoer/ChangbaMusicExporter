@@ -1,4 +1,4 @@
-from crawl import *
+firom crawl import *
 
 """
 enter of the whole program
@@ -6,5 +6,5 @@ enter of the whole program
 
 if __name__ == '__main__':
     url = raw_input("input url:")
-    music_url, path = getMusicInfo(url)
-    getMusic(music_url, path)
+    music_url, music = getMusicInfo(url)
+    getMusic(music_url, music)
