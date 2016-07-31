@@ -7,7 +7,8 @@ This project helps you export your song from Changba(唱吧) without coins.
 
 ----
 ### Project Status
-Under construction
+Finished core script: fetch music from a given changba url.
+GUI verion is under construction.
 
 ----
 ### Contact
