@@ -17,7 +17,7 @@ then python exporter.py
     ![](https://raw.githubusercontent.com/Rafael-Cheng/ChangbaMusicExporter/master/images/2.png)
 
 3. Find your music file in export_files.
-    ![](https://raw.githubusercontent.com/Rafael-Cheng/ChangbaMusicExporter/    master/images/3.png)
+    ![](https://raw.githubusercontent.com/Rafael-Cheng/ChangbaMusicExporter/master/images/3.png)
 ----
 ### Project Status
 Finished core script: fetch music from a given changba url.
